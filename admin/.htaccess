@@ -1,0 +1,4 @@
+AuthName "Members Only"
+AuthType Basic
+AuthUserFile /home/santhony/blog/user/.htpasswd
+require valid-user
